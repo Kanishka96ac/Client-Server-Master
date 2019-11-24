@@ -1,0 +1,8 @@
+{
+    "PROTOCOL": "http",
+    "REMOTE_SERVER": "192.168.1.120",
+    "REMOTE_PORT": "7000",
+    "RECONNECT_ATTEMPTS" : 6,
+    "SECRET": "sff34vbhj4",
+    "DOCUMENT_LOCATION": "F:\\proteger_system\\work"
+}
